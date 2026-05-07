@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "KREATOR",
+    "slug": "kreator",
+    "scheme": "kreator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kreator.marketplace"
+    },
+    "android": {
+      "package": "com.kreator.marketplace",
+      "adaptiveIcon": {
+        "backgroundColor": "#050816"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
