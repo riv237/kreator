@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "KREATOR",
+    "slug": "kreator",
+    "scheme": "kreator",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
