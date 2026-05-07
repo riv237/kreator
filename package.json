@@ -10,6 +10,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "~55.0.11",
     "expo": "^55.0.23",
     "expo-constants": "~55.0.16",
     "expo-linking": "~55.0.15",
@@ -19,7 +20,7 @@
     "react-native": "0.83.6",
     "react-native-safe-area-context": "~5.6.2",
     "react-native-screens": "~4.23.0",
-    "react-native-web": "^0.21.2"
+    "react-native-web": "^0.21.0"
   },
   "overrides": {
     "postcss": "^8.5.10"
